@@ -19,5 +19,4 @@ exports.getLabel = (label, language = "none") => {
    * Return label value for InternationalString code `en`
    */
   return label[language];
-};
-};
+}
