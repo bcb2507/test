@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6660],{46660:s=>{s.exports=JSON.parse('{"collection":"https://bcb2507.github.io/jsontest/manifest_test.json"}')}}]);
