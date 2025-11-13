@@ -1,3 +1,15 @@
 {
-  "collection": "https://bcb2507.github.io/jsontest/marii code 0.json"
+  "collection": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "devCollection": "https://bcb2507.github.io/jsontest/marii code 0.json",
+  "metadata": ["Series", "Date"],
+  "featured": [
+    "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json"
+  ],
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
 }
