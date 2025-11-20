@@ -7,7 +7,7 @@
   ],
   "theme": {
     "defaultTheme": "light",
-    "accentColor": "red",
+    "accentColor": "blue",
     "grayColor": "mauve",
     "radius": "small",
     "scaling": "100%"
