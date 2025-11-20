@@ -6,3 +6,12 @@ navigation: "about"
 # Edwin blog post test
  
 This is a test page for creating markdown content related to a blog post.
+
+## A IIIF Viewer
+ 
+The `<Viewer />` is a React component that takes a single property, `iiifContent`, which is the URI to the
+IIIF manifest. The component will then fetch the Manifest and render a deep-zoom viewer. The viewer is
+responsive and will resize to fit the container it is placed in. These Manifests can be part of the Canopy
+source Collection but are not limited to it.
+ 
+<Viewer iiifContent="https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4772/manifest.json" />
