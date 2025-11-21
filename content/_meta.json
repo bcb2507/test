@@ -1,14 +1,18 @@
 [
   {
     "path": "/works",
-    "text": "Works"
+    "title": "Works"
   },
   {
     "path": "/metadata",
-    "text": "Metadata"
+    "title": "Metadata"
+  },
+  {
+    "path": "/essays",
+    "title": "Essays"
   },
   {
     "path": "/about",
-    "text": "About"
+    "title": "About"
   }
 ]
