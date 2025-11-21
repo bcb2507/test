@@ -1,10 +1,10 @@
 [
   {
     "path": "/essays",
-    "title": "Essays"
+    "text": "Essays"
   },
   {
     "path": "/essays/edwyn-blog-test",
-    "title": "Edwin Blog Test"
+    "text": "Edwyn Blog Test"
   }
 ]
