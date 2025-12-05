@@ -1,6 +1,6 @@
 {
-  "collection": "https://bcb2507.github.io/jsontest/manifest%20single%20test.json",
-  "devCollection": "https://bcb2507.github.io/jsontest/manifest%20single%20test.json",
+  "collection": "https://bcb2507.github.io/jsontest/sample%20of%20one.json",
+  "devCollection": "https://bcb2507.github.io/jsontest/sample%20of%20one.json",
   "metadata": ["Series", "Date"],
   "featured": [
     "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json"
