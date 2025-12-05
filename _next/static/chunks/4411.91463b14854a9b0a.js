@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4411],{64411:t=>{t.exports=JSON.parse('[{"path":"/about","text":"About"},{"path":"/about/example","text":"Markdown Example"},{"path":"/about/edwynblogtest","text":"Edwyn blog post test"},{"path":"/about/nez-perce","text":"The Nez Perc\xe9 (Nim\xedipuu)"}]')}}]);
