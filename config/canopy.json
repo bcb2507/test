@@ -1,9 +1,9 @@
 {
   "collection": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
-  "devCollection": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "devCollection": "https://bcb2507.github.io/jsontest/manifest%20only%20one.json",
   "metadata": ["Series", "Date"],
   "featured": [
-    "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid102/manifest.json"
+    "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json"
   ],
   "theme": {
     "defaultTheme": "light",
