@@ -2,7 +2,7 @@
 title: Test Footnote
 navigation: "blog"
 referencedManifests: 
-- https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1709/manifest.json
+- https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1709/manifest.json
 ---
  
 # Eben Horsford’s Later Work and the Context of Eugenic Theory in Academia
